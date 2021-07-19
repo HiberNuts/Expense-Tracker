@@ -1,0 +1,11 @@
+#root, body, html{
+    height: 100%;
+    margin: 0;
+}
+
+body{
+    background-image: url('https://images.ctfassets.net/ifu905unnj2g/3PvW4cvX3GM4mouGO6Eago/be5b38aa8bf78cb267bb3d5baa5e727b/Pie_Chart_and_Calculator_Yellow_Background__Accounting_-min.png?h=400&q=90&w=400');
+    background-size:auto;
+    background-position: center;
+  
+}
